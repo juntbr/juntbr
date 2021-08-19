@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Victor Hugo](https://www.linkedin.com/in/victor-hugo-schneider-de-almeida-6003a615b/)! 😁
+### Hi there 👋, I am [Victor Hugo](https://www.linkedin.com/in/victor-hugo-schneider-de-almeida-6003a615b/)! (Front-end Developer) 😁
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
