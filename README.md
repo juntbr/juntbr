@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Victor Hugo Schneider de Almeida and I am a graduating student at [UFSC](https://ufsc.br) majoring in Computer Science. I'm a front-end developer who loves Mathematics and Stock Market. I have been working as a Front-end developer since 2019, focused in ReactJS and React Native and now I'm dating NodeJS and MongoDB as my new backend primary stack.
+Hello, my name is Victor Hugo Schneider de Almeida and I am a graduating student at [UFSC](https://ufsc.br) majoring in Computer Science. I'm a front-end developer who loves Mathematics and Stock Market. I have been working as a front-end developer since 2019, focused in ReactJS and React Native and now I'm dating NodeJS and MongoDB as my new backend primary stack.
 
 - 🔭 I’m currently one of [Daikon Capital](http:daikoncapital.com/) founders, a start up focusing on stock market
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
